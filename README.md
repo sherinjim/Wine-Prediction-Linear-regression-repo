@@ -13,7 +13,6 @@ This project demonstrates a machine learning model built with a Linear Regressio
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -40,7 +39,7 @@ To run this project on your local machine, follow these steps:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/sherinjim
+git clone (https://github.com/sherinjim/wine-quality-prediction-linear-regression-repo.git)
 
 2. Navigate to the project directory:
 cd your-repo
@@ -50,11 +49,11 @@ pip install -r requirements.txt
 
 4. Open the Jupyter Notebook:
 
-jupyter notebook Wine-Quality-Prediction.ipynb
+jupyter notebook wine quality prediction using Linear regression.ipynb
 
 ##Usage
 
-Follow the Jupyter Notebook (`Wine-Quality-Prediction.ipynb`) to see the step-by-step process of data preprocessing, model building, and evaluation.
+Follow the Jupyter Notebook (`wine quality prediction using Linear regression.ipynb`) to see the step-by-step process of data preprocessing, model building, and evaluation.
 
 ## Results
 
@@ -68,9 +67,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
-If you have any questions or suggestions, please contact [your@email.com](mailto:your@email.com).
 
 
 
